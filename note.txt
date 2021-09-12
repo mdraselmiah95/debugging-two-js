@@ -20,11 +20,11 @@ Solution: কমেন্ট করে প্রবলেম এরিয়া ছ
 #TypeError
 
 আমরা যেই মেথড/প্রোপার্টি ব্যবহার করার ট্রাই করতেছি, সেটা বর্তমান টাইপ এর অব্জেক্ট এর উপর ব্যবহার করা যায় না।
-HTMLelement =
 
-<h1 id='name'>
-Rohim is a good boy.
-</h1>
+
+HTMLelement =   <h1 id='name'>
+                Rohim is a good boy.
+                </h1>
 
 document.getElementById('name')
 Rohim is a good boy

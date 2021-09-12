@@ -36,7 +36,7 @@ HTMLelement.textContent
 Array/String.length 
 HTMLelement.value <input>
 
-arrayMethod arr.forEach() arr.map() arr.filter() arr.find()
+#arrayMethod arr.forEach() arr.map() arr.filter() arr.find()
 
 যেগুলো ভ্যালু আকারে পাওয়া যায়, সেগুলো property; যেগুলো ফাংশন আকারে থাকে, সেগুলো হচ্ছে method;
 
